@@ -1,0 +1,41 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Build outputs
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods
+ios/.symlinks
+ios/Flutter/ephemeral/
+macos/Flutter/ephemeral/
+*.lock
+
+# Web-related
+web/.dart_tool/
+web/.idea/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Crash/Log files
+*.log
+
+# Others
+flutter_*.png
+*.orig
+*.DS_Store
+
+# Android
+android/.gradle
+android/captures/
+android/.idea/
+android/local.properties
+
+# iOS
+ios/.generated/
